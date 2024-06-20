@@ -7,6 +7,13 @@ An app for translating text from English language to Hindi, French, German, and 
 * Google Colab
 * AI models for translation
 
+# Features
+* Translation: Input English text and get instant translations into Hindi, French, German, and Spanish.
+* Interactive Interface: A user-friendly web interface powered by Streamlit.
+* Real-time: Translate text instantly as the user types or submits input.
+* Tokenization: Use SentencePiece for handling tokenization and detokenization of text.
+* Local Hosting: Share the application with others via LocalTunnel for testing and demonstration purposes.
+
 # Authors
 * @[amitdoddamani123](https://github.com/amitdoddamani123) @[ArigelaRajesh](https://github.com/ArigelaRajesh) @[rehanmohammed](https://github.com/rehanmohammed)
 
