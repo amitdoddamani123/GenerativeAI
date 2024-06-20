@@ -5,8 +5,6 @@ os.environ["api_key"] = "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"
 
 st.write('# Language Translator')
 
-st.button("Button", type="primary")
-
 input1 = st.text_input('Give the input sentence:')
 
 text = 'value' #@param {type:"string"}
