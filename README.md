@@ -8,7 +8,7 @@ An app for translating text from English language to Hindi, French, German, and 
 * AI models for translation
 
 # Authors
-* @[amitdoddamani123](https://github.com/amitdoddamani123) @ArigelaRajesh @rehanmohammed
+* @[amitdoddamani123](https://github.com/amitdoddamani123) @[ArigelaRajesh](https://github.com/ArigelaRajesh) @[rehanmohammed](https://github.com/rehanmohammed)
 
 # References:
 1) https://colab.research.google.com/drive/1BcMwDr6QpyLypoxcG994yaTwNdNdGN8W?usp=sharing
