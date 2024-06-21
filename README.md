@@ -7,6 +7,9 @@ An app for translating text from English language to Hindi, French, German, and 
 * Google Colab
 * AI models for translation
 
+* # Architecture
+* ![architecture](Architecture.jpeg)
+
 # Features
 * Translation: Input English text and get instant translations into Hindi, French, German, and Spanish.
 * Interactive Interface: A user-friendly web interface powered by Streamlit.
