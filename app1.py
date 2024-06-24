@@ -1,7 +1,7 @@
 import streamlit as st
 from transformers import pipeline
 import os
-os.environ["api_key"] = "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"
+
 
 st.write('# Language Translator')
 
